@@ -1,4 +1,3 @@
-```markdown
 # EventHub Integration with Snowflake
 
 This repository contains code to facilitate sending and receiving messages between Snowflake and Azure EventHub. Please replace any placeholder values (indicated by `__VARIABLE__`) with actual values for your configuration.
